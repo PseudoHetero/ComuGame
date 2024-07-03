@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://div5yn14oupqt"]
+
+[node name="Board" type="Node2D"]
+
+[node name="UI" type="CanvasLayer" parent="."]
+
+[node name="CardHolder" type="Node" parent="."]
